@@ -1,6 +1,6 @@
 # Reading — day 281
 
 - reviewed sql notes
-- outlined a script
+- refactored a checklist
 - next: write tests
-- seed: b06f48a3
+- seed: 4472f29e
