@@ -1,6 +1,6 @@
-# Drafts — day 282
+# Log — day 282
 
-- reviewed rust notes
-- drafted a checklist
+- reviewed python notes
+- cleaned up a script
 - next: benchmark
-- seed: 4bc3ee0b
+- seed: 56f709fe
