@@ -1,6 +1,6 @@
-# Drafts — day 283
+# Reading — day 283
 
 - reviewed typescript notes
-- refactored a checklist
+- cleaned up a checklist
 - next: read docs
-- seed: 9928db19
+- seed: 54099004
